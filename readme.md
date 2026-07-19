@@ -175,13 +175,7 @@ Agency storefront built with React, Vite, Tailwind, and Framer Motion, including
 
 ---
 
-## Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-0F1620?style=for-the-badge&logo=kubernetes&logoColor=2FBFA4" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Ansible-0F1620?style=for-the-badge&logo=ansible&logoColor=E8A33D" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Terraform-0F1620?style=for-the-badge&logo=terraform&logoColor=2FBFA4" alt="Terraform" />
-</p>
+## Profile Viewers
 
 <details>
 <summary><b>Other Projects & Learning Archive</b></summary>
