@@ -175,7 +175,18 @@ Agency storefront built with React, Vite, Tailwind, and Framer Motion, including
 
 ---
 
-## Profile Viewers
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zb-coderZ&show_icons=true&bg_color=0F1620&title_color=E8A33D&text_color=B8C1CC&icon_color=2FBFA4&border_color=E8A33D&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zb-coderZ&layout=compact&bg_color=0F1620&title_color=E8A33D&text_color=B8C1CC&border_color=E8A33D&hide_border=false" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=zb-coderZ&background=0F1620&stroke=E8A33D&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D&sideLabels=B8C1CC&currStreakNum=F4F1EA&sideNums=F4F1EA&dates=B8C1CC&border=E8A33D" height="165"/>
+
+</div>
+
+---
 
 <details>
 <summary><b>Other Projects & Learning Archive</b></summary>
