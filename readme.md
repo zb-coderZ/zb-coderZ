@@ -24,7 +24,7 @@ DevOps Engineer building deployment-ready products with FastAPI, React, Docker, 
 
 ## About Me
 
-I build real systems, not just code that runs locally. I run **Choudhary Solutions**, where I ship FastAPI and React projects with a delivery mindset: containerized, automated, and ready for production.
+I build real systems, not just code that runs locally. I run **HayThix AI solution**, where I ship FastAPI and React projects with a delivery mindset: containerized, automated, and ready for production.
 
 My current focus is a practical DevOps path built around Docker, CI/CD, Kubernetes, Ansible, Terraform, Prometheus, Grafana, and Helm, with Azure as the main cloud target.
 
