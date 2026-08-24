@@ -2,12 +2,13 @@
 
 # Zohaib Zulfiqar
 
-DevOps Engineer building deployment-ready products with FastAPI, React, Docker, Kubernetes, and Azure.
+DevOps Engineer building deployment-ready systems with Docker, Kubernetes, and CI/CD and shipping AI automation workflows through HAYTHIX AI.
 
 <p>
   <img src="https://img.shields.io/badge/DevOps-0F1620?style=for-the-badge&logo=docker&logoColor=E8A33D" alt="DevOps" />
-  <img src="https://img.shields.io/badge/Full--Stack-0F1620?style=for-the-badge&logo=react&logoColor=2FBFA4" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Cloud-0F1620?style=for-the-badge&logo=microsoftazure&logoColor=E8A33D" alt="Cloud" />
+  <img src="https://img.shields.io/badge/AI%20Automation-0F1620?style=for-the-badge&logo=n8n&logoColor=2FBFA4" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/Full--Stack-0F1620?style=for-the-badge&logo=react&logoColor=E8A33D" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Cloud-0F1620?style=for-the-badge&logo=microsoftazure&logoColor=2FBFA4" alt="Cloud" />
 </p>
 
 <p>
@@ -24,78 +25,27 @@ DevOps Engineer building deployment-ready products with FastAPI, React, Docker, 
 
 ## About Me
 
-I build real systems, not just code that runs locally. I run **Choudhary Solutions**, where I ship FastAPI and React projects with a delivery mindset: containerized, automated, and ready for production.
+I run **HAYTHIX AI**, where I build and ship real, production-ready systems — not code that only runs locally. My work sits across two focused tracks: **DevOps** as my primary discipline, and **AI automation** as the business layer built on top of it.
 
-My current focus is a practical DevOps path built around Docker, CI/CD, Kubernetes, Ansible, Terraform, Prometheus, Grafana, and Helm, with Azure as the main cloud target.
+My core DevOps path runs through Docker, CI/CD, Kubernetes, Ansible, Terraform, Prometheus, and Grafana, with Azure as my main cloud target. On the automation side, I design and deploy self-hosted n8n workflows powered by the Gemini API — turning manual, repetitive business processes into automated pipelines for real clients.
 
 ### What I Focus On
 
-- Building full-stack apps as real deployment targets, not demo-only projects
+- Containerizing and deploying full-stack apps as real production targets, not demos
 - Shipping through Docker, CI/CD pipelines, and cloud VMs
 - Practicing orchestration with Kubernetes and Minikube on working projects
-- Building AI chatbot add-ons for local businesses
-- Delivering client websites with a strong production foundation
+- Building self-hosted n8n automation workflows powered by Gemini AI
+- Delivering client-ready websites and admin panels with a solid production foundation
 
 ### How I Work
 
-DevOps first, full-stack second. I prefer one clean path to production over five half-finished ideas.
+DevOps first, AI automation second, full-stack as the foundation underneath both. I prefer one clean path to production over five half-finished ideas.
 
 ---
 
 ## Tech Stack
 
 <table align="center" cellpadding="12" cellspacing="0">
-<tr>
-<td width="50%" align="center" valign="top">
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0F1620?style=flat-square&logo=python&logoColor=E8A33D" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0F1620?style=flat-square&logo=javascript&logoColor=E8A33D" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0F1620?style=flat-square&logo=typescript&logoColor=2FBFA4" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-0F1620?style=flat-square&logo=html5&logoColor=E8A33D" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0F1620?style=flat-square&logo=css3&logoColor=2FBFA4" alt="CSS3" />
-</p>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-**Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-0F1620?style=flat-square&logo=fastapi&logoColor=2FBFA4" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-0F1620?style=flat-square&logo=django&logoColor=E8A33D" alt="Django" />
-  <img src="https://img.shields.io/badge/Node.js-0F1620?style=flat-square&logo=nodedotjs&logoColor=2FBFA4" alt="Node.js" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-0F1620?style=flat-square&logo=react&logoColor=2FBFA4" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0F1620?style=flat-square&logo=nextdotjs&logoColor=E8A33D" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vite-0F1620?style=flat-square&logo=vite&logoColor=E8A33D" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F1620?style=flat-square&logo=tailwindcss&logoColor=2FBFA4" alt="Tailwind CSS" />
-</p>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-**Databases & BaaS**
-
-<p>
-  <img src="https://img.shields.io/badge/SQLite-0F1620?style=flat-square&logo=sqlite&logoColor=E8A33D" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-0F1620?style=flat-square&logo=mongodb&logoColor=2FBFA4" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-0F1620?style=flat-square&logo=supabase&logoColor=E8A33D" alt="Supabase" />
-</p>
-
-</td>
-</tr>
 <tr>
 <td width="50%" align="center" valign="top">
 
@@ -111,6 +61,59 @@ DevOps first, full-stack second. I prefer one clean path to production over five
   <img src="https://img.shields.io/badge/Nginx-0F1620?style=flat-square&logo=nginx&logoColor=E8A33D" alt="Nginx" />
   <img src="https://img.shields.io/badge/Prometheus-0F1620?style=flat-square&logo=prometheus&logoColor=2FBFA4" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-0F1620?style=flat-square&logo=grafana&logoColor=E8A33D" alt="Grafana" />
+</p>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**AI Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-0F1620?style=flat-square&logo=n8n&logoColor=2FBFA4" alt="n8n" />
+  <img src="https://img.shields.io/badge/Gemini%20API-0F1620?style=flat-square&logo=googlegemini&logoColor=E8A33D" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-0F1620?style=flat-square&logo=googlecloud&logoColor=2FBFA4" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Google%20Sheets%20API-0F1620?style=flat-square&logo=googlesheets&logoColor=E8A33D" alt="Google Sheets API" />
+  <img src="https://img.shields.io/badge/Gmail%20API-0F1620?style=flat-square&logo=gmail&logoColor=2FBFA4" alt="Gmail API" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-0F1620?style=flat-square&logo=fastapi&logoColor=2FBFA4" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-0F1620?style=flat-square&logo=django&logoColor=E8A33D" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-0F1620?style=flat-square&logo=nodedotjs&logoColor=2FBFA4" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-0F1620?style=flat-square&logo=python&logoColor=E8A33D" alt="Python" />
+</p>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-0F1620?style=flat-square&logo=react&logoColor=2FBFA4" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0F1620?style=flat-square&logo=nextdotjs&logoColor=E8A33D" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-0F1620?style=flat-square&logo=typescript&logoColor=2FBFA4" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-0F1620?style=flat-square&logo=vite&logoColor=E8A33D" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F1620?style=flat-square&logo=tailwindcss&logoColor=2FBFA4" alt="Tailwind CSS" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**Databases & BaaS**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-0F1620?style=flat-square&logo=mongodb&logoColor=2FBFA4" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-0F1620?style=flat-square&logo=sqlite&logoColor=E8A33D" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Supabase-0F1620?style=flat-square&logo=supabase&logoColor=2FBFA4" alt="Supabase" />
 </p>
 
 </td>
@@ -138,36 +141,36 @@ DevOps first, full-stack second. I prefer one clean path to production over five
 <tr>
 <td width="50%" valign="top">
 
-### [Task Manager - DevOps Pipeline](https://github.com/zb-coderZ/Task-Manager-__DEVOPS__)
-End-to-end MERN task manager deployed with Docker, GitHub Actions, Azure VM hosting, Nginx, and Minikube practice.
+### [Task Manager — DevOps Pipeline](https://github.com/zb-coderZ/Task-Manager-__DEVOPS__)
+End-to-end MERN task manager deployed with Docker, GitHub Actions CI/CD, Azure VM hosting, Nginx, and Minikube practice.
 
-**Highlights:** containerization, CI/CD, cloud deployment, live infrastructure troubleshooting.
+**Highlights:** containerization, CI/CD pipelines, cloud deployment, live infrastructure troubleshooting.
 
 </td>
 <td width="50%" valign="top">
 
-### [FastAPI + React CRUD](https://github.com/zb-coderZ/todo_CRUD_project_fastApi-React)
-Full CRUD app pairing a FastAPI backend with a React frontend, built as a clean deployment target.
+### [Freelance Client Tracker — CRM](https://github.com/zb-coderZ/Freelancing_Client_Tracker_CRM)
+Production-quality CRM for managing leads, outreach, and follow-ups. FastAPI + MongoDB backend, React/Vite/Tailwind frontend, JWT auth, full status pipeline and activity timeline.
 
-**Highlights:** API design, full-stack integration, deployment-ready structure.
+**Highlights:** REST API design, JWT authentication, dashboard analytics, containerized full-stack delivery.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Dental Clinic Site](https://github.com/zb-coderZ/dental-clinic-__Next-Js..Typescript..Tailwind..supabase__)
-Production-style Next.js project for a dental clinic niche using TypeScript, Tailwind, and Supabase.
+### [Usta — Dental Clinic Site](https://github.com/zb-coderZ/dental-clinic-__Next-Js..Typescript..Tailwind..supabase__)
+Client project for a dental clinic, built with Next.js 15, TypeScript, and Tailwind CSS, live on Vercel.
 
-**Highlights:** client-ready delivery, modern frontend, backend-as-a-service integration.
+**Highlights:** client delivery under deadline, modern frontend architecture, production deployment.
 
 </td>
 <td width="50%" valign="top">
 
-### [Choudhary Solutions](https://github.com/zb-coderZ/choudhary-solutions)
-Agency storefront built with React, Vite, Tailwind, and Framer Motion, including a Gemini-powered chatbot.
+### [Behafiz — Learning Platform Admin Panel](https://github.com/zb-coderZ/behafiz-online-learning-platform-admin-panel)
+Admin panel for an online learning platform client, built with Next.js and full English/Arabic (RTL) internationalization via i18next.
 
-**Highlights:** brand execution, AI integration, product thinking for local business clients.
+**Highlights:** multi-language support, RTL layout handling, client-facing admin tooling.
 
 </td>
 </tr>
@@ -188,14 +191,26 @@ Agency storefront built with React, Vite, Tailwind, and Framer Motion, including
 
 ---
 
+## Most Active Repositories
+
+Ranked by commit activity — the projects with the deepest, most consistent build history.
+
+| Rank | Project | Commits | Stack |
+|------|---------|---------|-------|
+| 1 | [Task-Manager-DEVOPS](https://github.com/zb-coderZ/Task-Manager-__DEVOPS__) | 41 | MERN, Docker, GitHub Actions, Azure |
+| 2 | [Freelancing_Client_Tracker_CRM](https://github.com/zb-coderZ/Freelancing_Client_Tracker_CRM) | 8 | FastAPI, MongoDB, React, Tailwind |
+| 3 | [Dental Clinic (Usta)](https://github.com/zb-coderZ/dental-clinic-__Next-Js..Typescript..Tailwind..supabase__) | 3 | Next.js 15, TypeScript, Tailwind, Supabase |
+
+---
+
 <details>
 <summary><b>Other Projects & Learning Archive</b></summary>
 <br/>
 
+- [n8n_data_analyst_automation](https://github.com/zb-coderZ/n8n_data_analyst_automation) - n8n + Gemini AI
 - [fastAPI_CRUD_firstProject](https://github.com/zb-coderZ/fastAPI_CRUD_firstProject) - Python/FastAPI
 - [restaurant_prototype](https://github.com/zb-coderZ/restaurant_prototype) - TypeScript
 - [haythix-ai-oriented-learning-platform](https://github.com/zb-coderZ/haythix-ai-oriented-learning-platform) - TypeScript
-- [behafiz-online-learning-platform-admin-panel](https://github.com/zb-coderZ/behafiz-online-learning-platform-admin-panel) - TypeScript
 - [Expense-Tracker-](https://github.com/zb-coderZ/Expense-Tracker-)
 - [Digital-Addiction-Web](https://github.com/zb-coderZ/Digital-Addiction-Web)
 - [Social-Media-Manager-vidThix-](https://github.com/zb-coderZ/Social-Media-Manager-vidThix-)
