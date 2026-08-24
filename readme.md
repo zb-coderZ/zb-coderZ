@@ -25,7 +25,7 @@ DevOps Engineer building deployment-ready systems with Docker, Kubernetes, and C
 
 ## About Me
 
-I run **HAYTHIX AI**, where I build and ship real, production-ready systems — not code that only runs locally. My work sits across two focused tracks: **DevOps** as my primary discipline, and **AI automation** as the business layer built on top of it.
+I build real systems, not just code that runs locally. I run **Choudhary Solutions**, where I ship FastAPI and React projects with a delivery mindset: containerized, automated, and ready for production.
 
 My core DevOps path runs through Docker, CI/CD, Kubernetes, Ansible, Terraform, Prometheus, and Grafana, with Azure as my main cloud target. On the automation side, I design and deploy self-hosted n8n workflows powered by the Gemini API — turning manual, repetitive business processes into automated pipelines for real clients.
 
