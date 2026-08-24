@@ -25,7 +25,7 @@ DevOps Engineer building deployment-ready systems with Docker, Kubernetes, and C
 
 ## About Me
 
-I build real systems, not just code that runs locally. I run **Choudhary Solutions**, where I ship FastAPI and React projects with a delivery mindset: containerized, automated, and ready for production.
+I build real systems, not just code that runs locally. I run **HaythixAi**, where I ship FastAPI and React projects with a delivery mindset: containerized, automated, and ready for production.
 
 My core DevOps path runs through Docker, CI/CD, Kubernetes, Ansible, Terraform, Prometheus, and Grafana, with Azure as my main cloud target. On the automation side, I design and deploy self-hosted n8n workflows powered by the Gemini API — turning manual, repetitive business processes into automated pipelines for real clients.
 
@@ -159,7 +159,7 @@ Production-quality CRM for managing leads, outreach, and follow-ups. FastAPI + M
 <tr>
 <td width="50%" valign="top">
 
-### [Usta — Dental Clinic Site](https://github.com/zb-coderZ/dental-clinic-__Next-Js..Typescript..Tailwind..supabase__)
+### [Dental Clinic Site](https://github.com/zb-coderZ/dental-clinic-__Next-Js..Typescript..Tailwind..supabase__)
 Client project for a dental clinic, built with Next.js 15, TypeScript, and Tailwind CSS, live on Vercel.
 
 **Highlights:** client delivery under deadline, modern frontend architecture, production deployment.
